@@ -6,7 +6,7 @@ A Clone project for Instagram designed with Flutter.
 
 |SplashScreen|Home Feed|Post Page|
 | ------------- | ------------- | ------------- |
-|<img src="https://github.com/JustinWeru12/Dealership/blob/master/assets/1.png" width="400px" height="auto">|<img src="https://github.com/JustinWeru12/Dealership/blob/master/assets/2.png" width="400px" height="auto">|<img src="https://github.com/JustinWeru12/Dealership/blob/master/assets/3.png" width="400px" height="auto">|
+|<img src="https://github.com/JustinWeru12/instagram-UI/blob/master/assets/1.png" width="400px" height="auto">|<img src="https://github.com/JustinWeru12/instagram-UI/blob/master/assets/2.png" width="400px" height="auto">|<img src="https://github.com/JustinWeru12/instagram-UI/blob/master/assets/3.png" width="400px" height="auto">|
 
 ## Getting Started
 
